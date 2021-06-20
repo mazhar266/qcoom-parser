@@ -1,0 +1,312 @@
+[
+    {
+        "name": "Aprilia FX-150 150 CC Motorbike",
+        "offer_price": "129150",
+        "regular_price": "215250"
+    },
+    {
+        "name": "Runner UM XTREET 150CC Motorbike",
+        "offer_price": "103800",
+        "regular_price": "173000"
+    },
+    {
+        "name": "RUNNER BOLT 165CC Motorbike",
+        "offer_price": "101400",
+        "regular_price": "169000"
+    },
+    {
+        "name": "RUNNER KNIGHT-RIDER- V2 150CC Motorbike",
+        "offer_price": "99600",
+        "regular_price": "166000"
+    },
+    {
+        "name": "RUNNER KNIGHT-RIDER 150CC Motorbike",
+        "offer_price": "93600",
+        "regular_price": "156000"
+    },
+    {
+        "name": "RUNNER TURBO 125CC Motorbike",
+        "offer_price": "78000",
+        "regular_price": "130000"
+    },
+    {
+        "name": "RUNNER ROYAL-PLUS 110CC Motorbike",
+        "offer_price": "60600",
+        "regular_price": "101000"
+    },
+    {
+        "name": "RUNNER KITE-PLUS 110CC Motorbike",
+        "offer_price": "54600",
+        "regular_price": "91000"
+    },
+    {
+        "name": "RUNNER SKOOTY 110CC Motorbike",
+        "offer_price": "60000",
+        "regular_price": "100000"
+    },
+    {
+        "name": "RUNNER BULLET- V2 100CC Motorbike",
+        "offer_price": "65400",
+        "regular_price": "109000"
+    },
+    {
+        "name": "RUNNER AD80S-DELUXE 80CC Motorbike",
+        "offer_price": "51000",
+        "regular_price": "85000"
+    },
+    {
+        "name": "Bajaj Discover 110cc Disc Motorbike",
+        "offer_price": "71675",
+        "regular_price": "117500"
+    },
+    {
+        "name": "Bajaj Discover 125CC Motorbike",
+        "offer_price": "80215",
+        "regular_price": "131500"
+    },
+    {
+        "name": "Bajaj Pulsar 150cc Double Disk Motorbike",
+        "offer_price": "110349",
+        "regular_price": "180900"
+    },
+    {
+        "name": "Bajaj Pulsar 150cc Single Disk Motorbike",
+        "offer_price": "103639",
+        "regular_price": "169900"
+    },
+    {
+        "name": "Bajaj Platina ES 102CC Motorbike",
+        "offer_price": "60695",
+        "regular_price": "99500"
+    },
+    {
+        "name": "Bajaj CT 100CC ES Motorbike",
+        "offer_price": "58255",
+        "regular_price": "95500"
+    },
+    {
+        "name": "Yamaha R15 V3 Indonesia 2021 Silver",
+        "offer_price": "320250",
+        "regular_price": "525000"
+    },
+    {
+        "name": "Yamaha R15 V3.0 Indian",
+        "offer_price": "262300",
+        "regular_price": "430000"
+    },
+    {
+        "name": "Yamaha XSR 155 CC",
+        "offer_price": "320250",
+        "regular_price": "525000"
+    },
+    {
+        "name": "Yamaha MT-15 Indian Version Motorbike",
+        "offer_price": "231800",
+        "regular_price": "380000"
+    },
+    {
+        "name": "Yamaha FZS V3 FI BS6 Motorbike",
+        "offer_price": "164700",
+        "regular_price": "270000"
+    },
+    {
+        "name": "Honda CBR 150R TRICOLOR",
+        "offer_price": "328180",
+        "regular_price": "538000"
+    },
+    {
+        "name": "Honda HORNET 160R ABS Motorbike",
+        "offer_price": "155550",
+        "regular_price": "255000"
+    },
+    {
+        "name": "Honda XBLADE-160cc STD Motorbike",
+        "offer_price": "105469",
+        "regular_price": "172900"
+    },
+    {
+        "name": "Honda LIVO DISC-110cc Motorbike",
+        "offer_price": "66429",
+        "regular_price": "108900"
+    },
+    {
+        "name": "Honda CB Shine SP 125cc Motorbike",
+        "offer_price": "77409",
+        "regular_price": "126900"
+    },
+    {
+        "name": "LIFAN K19-165 Motorbike",
+        "offer_price": "158600",
+        "regular_price": "260000"
+    },
+    {
+        "name": "LIFAN KPR-165R (EFI) Motorbike",
+        "offer_price": "128100",
+        "regular_price": "210000"
+    },
+    {
+        "name": "LIFAN KPR-165R (CARBURATOR) Motorbike",
+        "offer_price": "121390",
+        "regular_price": "199000"
+    },
+    {
+        "name": "LIFAN XPECT 150 Motorbike",
+        "offer_price": "106750",
+        "regular_price": "175000"
+    },
+    {
+        "name": "LIFAN KRP-150 (CBS) Motorbike",
+        "offer_price": "115900",
+        "regular_price": "190000"
+    },
+    {
+        "name": "HPower Scooter 125cc",
+        "offer_price": "81000",
+        "regular_price": "135000"
+    },
+    {
+        "name": "HPower Zaara 100cc Black",
+        "offer_price": "54000",
+        "regular_price": "90000"
+    },
+    {
+        "name": "HPower Star-80 cc",
+        "offer_price": "38400",
+        "regular_price": "64000"
+    },
+    {
+        "name": "HPOWER MAX Z 150cc: Black & White",
+        "offer_price": "81000",
+        "regular_price": "135000"
+    },
+    {
+        "name": "TVS Max 125 cc Motorbike",
+        "offer_price": "81069",
+        "regular_price": "132900"
+    },
+    {
+        "name": "TVS Apache RTR 160 cc SD (Race Edition)",
+        "offer_price": "97539",
+        "regular_price": "159900"
+    },
+    {
+        "name": "TVS Radeon 110 cc Motorbike",
+        "offer_price": "62342",
+        "regular_price": "102200"
+    },
+    {
+        "name": "Suzuki GSX-R150 2021 Non ABS",
+        "offer_price": "234850",
+        "regular_price": "385000"
+    },
+    {
+        "name": "FKM Street Fighter- 165cc",
+        "offer_price": "115900",
+        "regular_price": "190000"
+    },
+    {
+        "name": "GPX DEMON GR- 165R",
+        "offer_price": "219600",
+        "regular_price": "360000"
+    },
+    {
+        "name": "Magic Hose Pipe For Watering (150 feet)",
+        "offer_price": "390",
+        "regular_price": "650"
+    },
+    {
+        "name": "Magic Hose Pipe 100 Feet",
+        "offer_price": "330",
+        "regular_price": "550"
+    },
+    {
+        "name": "MAGIC HOSE PIPE - 200 FEET",
+        "offer_price": "450",
+        "regular_price": "750"
+    },
+    {
+        "name": "Cow Leather Key Ring",
+        "offer_price": "14",
+        "regular_price": "25"
+    },
+    {
+        "name": "AUTO GREEN (AQA GOLD) FULL FACE HELMET Red -COLOR",
+        "offer_price": "825",
+        "regular_price": "1650"
+    },
+    {
+        "name": "AUTO GREEN (AQA GOLD) FULL FACE HELMET Blue -COLOR",
+        "offer_price": "825",
+        "regular_price": "1650"
+    },
+    {
+        "name": "AUTO GREEN (AQA GOLD) FULL FACE HELMET Green - COLOR",
+        "offer_price": "825",
+        "regular_price": "1650"
+    },
+    {
+        "name": "AUTO GREEN (X-7) FULL FACE SPORTS HELMET Blue. COLOR",
+        "offer_price": "1375",
+        "regular_price": "2750"
+    },
+    {
+        "name": "AUTO GREEN (X-7) FULL FACE SPORTS HELMET Red COLOR",
+        "offer_price": "1375",
+        "regular_price": "2750"
+    },
+    {
+        "name": "AUTO GREEN (X-7) FULL FACE SPORTS HELMET Black COLOR",
+        "offer_price": "1375",
+        "regular_price": "2750"
+    },
+    {
+        "name": "AUTO GREEN (AQA) FULL FACE HELMET",
+        "offer_price": "740",
+        "regular_price": "1480"
+    },
+    {
+        "name": "ENEOS Motorcycle Oil 4T 20W-40 -(Mineral)-12 PC (12x1L)",
+        "offer_price": "3600",
+        "regular_price": "7200"
+    },
+    {
+        "name": "ENEOS Motorcycle Oil 4T 20W-50 -(Mineral)-12 PC (12x1L)",
+        "offer_price": "3600",
+        "regular_price": "7200"
+    },
+    {
+        "name": "MIBK Open Full Face 603 Helmet Blue",
+        "offer_price": "575",
+        "regular_price": "1150"
+    },
+    {
+        "name": "MIBK Open Full Face 603 Helmet Red",
+        "offer_price": "575",
+        "regular_price": "1150"
+    },
+    {
+        "name": "MIBK Open Full Face 603 Helmet Black",
+        "offer_price": "575",
+        "regular_price": "1150"
+    },
+    {
+        "name": "awei Car Charger C707 White or Black",
+        "offer_price": "325",
+        "regular_price": "650"
+    },
+    {
+        "name": "SUZUKI PRINTED WIND BREAKER, MONSTAR PRINTED POLO-SHIRT (LONG SLEEVE), MONSTAR PRINTED POLO-SHIRT (SHORT SLEEVE) COMBO PACK",
+        "offer_price": "1750",
+        "regular_price": "2500"
+    },
+    {
+        "name": "PULSAR PRINTED WIND BREAKER, PULSAR PRINTED POLO-SHIRT (LONG SLEEVE), PULSAR PRINTED POLO-SHIRT (SHORT SLEEVE) COMBO PACK",
+        "offer_price": "1750",
+        "regular_price": "2500"
+    },
+    {
+        "name": "ENEOS PRINTED WIND BREAKER, YAMAHA PRINTED POLO-SHIRT (LONG SLEEVE), YAMAHA PRINTED POLO-SHIRT (SHORT SLEEVE) COMBO PACK",
+        "offer_price": "1750",
+        "regular_price": "2500"
+    }
+]
